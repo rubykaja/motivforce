@@ -1,0 +1,6 @@
+/.vagrant
+/motiveforce/settings/local.py
+/static
+*.pyc
+/media
+/Vagrantfile.local
